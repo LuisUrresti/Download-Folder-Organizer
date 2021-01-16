@@ -30,7 +30,7 @@ def organizeFiles(files , dir):
     '''
         sortFiles(files, dir)
 
-        This function sorts the files found in the "files" list,
+        This function organizes the files found in the "files" list,
         placing them into a directory according to their extension.
 
         Parameters
