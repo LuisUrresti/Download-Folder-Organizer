@@ -28,7 +28,7 @@ def getFiles(dir):
 # Funcion que coge las extensiones de los archivos y crea una carpeta para cada uno de ellos si no existe ya
 def organizeFiles(files , dir):
     '''
-        sortFiles(files, dir)
+        organizeFiles(files, dir)
 
         This function organizes the files found in the "files" list,
         placing them into a directory according to their extension.
